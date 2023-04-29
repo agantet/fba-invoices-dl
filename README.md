@@ -25,7 +25,7 @@ options:
   -dl, --download  Flag to enable download of invoices
 ```
 
-* Download the 2 last ordered invoices:
+* Download the fba invoices of the 2 last orders:
 ```
 $ python FBAInvoicesDL.py [your-sessin-cookie] "limit=2&sort=order_date_desc" -dl
 ------------- 403-1111111-2222222
