@@ -1,5 +1,3 @@
-# fba-invoices-dl
-
 A simple Python script to help Amazon sellers download FBA invoices, based on Amazon Seller Web API.
 
 # Requirements
